@@ -1,0 +1,11 @@
+c:\users\hubert.tuszynski\documents\visual studio 2015\Projects\TransformXml_TryProject\TransformXml_TryProject\bin\Debug\TransformXml_TryProject.exe.config
+c:\users\hubert.tuszynski\documents\visual studio 2015\Projects\TransformXml_TryProject\TransformXml_TryProject\bin\Debug\TransformXml_TryProject.exe
+c:\users\hubert.tuszynski\documents\visual studio 2015\Projects\TransformXml_TryProject\TransformXml_TryProject\bin\Debug\TransformXml_TryProject.pdb
+c:\users\hubert.tuszynski\documents\visual studio 2015\Projects\TransformXml_TryProject\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.exe
+c:\users\hubert.tuszynski\documents\visual studio 2015\Projects\TransformXml_TryProject\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.pdb
+X:\estebano\TransformXml_TryProject\TransformXml_TryProject\bin\Debug\TransformXml_TryProject.exe.config
+X:\estebano\TransformXml_TryProject\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.exe
+X:\estebano\TransformXml_TryProject\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.pdb
+X:\estebano\tml\TransformXml_TryProject\bin\Debug\TransformXml_TryProject.exe.config
+X:\estebano\tml\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.exe
+X:\estebano\tml\TransformXml_TryProject\obj\Debug\TransformXml_TryProject.pdb
